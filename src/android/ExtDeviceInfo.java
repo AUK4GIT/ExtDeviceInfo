@@ -22,9 +22,9 @@ import org.json.JSONObject;
  */
 public class ExtDeviceInfo extends CordovaPlugin {
 
-    public void initialize(CordovaInterface cordova, CordovaWebView webView) {
-        super.initialize(cordova, webView);
-    }
+//     public void initialize(CordovaInterface cordova, CordovaWebView webView) {
+//         super.initialize(cordova, webView);
+//     }
 
     @Override
     public boolean execute(String action, JSONArray args, CallbackContext callbackContext) throws JSONException {
