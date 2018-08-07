@@ -1,0 +1,26 @@
+{
+  "name": "extdeviceinfo",
+  "version": "1.0.0",
+  "description": "This plugin returns memory, cpumhz and totalstorage of an android device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AUK4GIT/ExtDeviceInfo.git"
+  },
+  "keywords": [
+    "RAM",
+    "size",
+    "android",
+    "memory",
+    "CPU"
+  ],
+  "author": "AUK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AUK4GIT/ExtDeviceInfo/issues"
+  },
+  "homepage": "https://github.com/AUK4GIT/ExtDeviceInfo#readme"
+}
